@@ -1,0 +1,7 @@
+displayThisText(typeof gtgt +"<br/>")
+displayThisText(typeof true +"<br/>")
+displayThisText(typeof 26 +"<br/>")
+displayThisText(typeof 123456789123456789n +"<br/>")
+displayThisText(typeof Symbol()+"<br/>")
+displayThisText(typeof Object. prototype + "<br/>")
+displayThisText(typeof Function)
